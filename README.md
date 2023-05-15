@@ -1,17 +1,17 @@
-# Heart Disease Analysis
-Analysing likelihood of heart disease patient for UM WQD7003 Data Analytics course.
+# Superstore Analysis
+**Objective**: Identify key performance metrics and trends for the superstore.
+
+**Goal**: Analyze the historical sales data to identify patterns in customer behavior, popular products, and market trends. Develop actionable insights that can be used to optimize the store's performance.
 
 ## Course Info
-Name: Data Analytics
+Name: Principles of Data Science
 
-Code: WQD7003
+Code: WQD7001
 
 Repo type: Group project
 
 ## Dataset Origin
-- Primary: [TBD]()
-
-- Secondary: [TBD]()
+- Primary: [Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## Project Structure
 To be updated
@@ -21,7 +21,7 @@ To be updated
 1. At your project directory, clone this repo
 
 ```
-git clone https://github.com/karhong-sam/project-wqd7003-ds-analysis.git
+git clone https://github.com/karhong-sam/project-wqd7001-superstore-analysis.git
 ```
 2. Activate your venv (Windows)
 ```
@@ -32,11 +32,11 @@ python -m venv venv & venv\Scripts\activate
 pip install -r requirements.txt
 ```
 ## Team
-- TBD [wendycxz]()
-- TBD [Darvhind]()
-- TBD [jhwong97]()
-- TBD [dzafeer]()
 - Kar Hong Sam [karhong-sam](https://github.com/karhong-sam)
+- Wing Hong Cheah [winghongjason](https://github.com/winghongjason)
+- Jia Hui Wong [jhwong97](https://github.com/jhwong97)
+- Yuan Wei Kam [yuanwei23](https://github.com/yuanwei23)
+- Mei Zhu
 
 ## Disclaimer
 TBD
