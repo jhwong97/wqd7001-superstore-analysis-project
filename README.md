@@ -32,11 +32,11 @@ python -m venv venv & venv\Scripts\activate
 pip install -r requirements.txt
 ```
 ## Team
-- TBD []()
-- TBD []()
-- TBD []()
-- Jia Hui Wong [jhwong97](https://github.com/jhwong97)
 - Kar Hong Sam [karhong-sam](https://github.com/karhong-sam)
+- Wing Hong Cheah [winghongjason](https://github.com/winghongjason)
+- Jia Hui Wong [jhwong97](https://github.com/jhwong97)
+- Yuan Wei Kam [yuanwei23](https://github.com/yuanwei23)
+- Mei Zhu
 
 ## Disclaimer
 TBD
