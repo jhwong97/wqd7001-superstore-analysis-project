@@ -8,5 +8,7 @@ jupyter
 missingno
 chardet
 scikit-learn
-statsmodels
-prophet
+xgboost
+joblib
+lightgbm
+lazypredict
