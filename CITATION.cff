@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Analyzing Customer Preferences and Effective Marketing
+  with a Data-Driven Approach to Retail Strategies 
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kar Hong
+    family-names: Sam
+    email: karhongsam@gmail.com
+repository-code: >-
+  https://github.com/karhong-sam/project-wqd7001-superstore-analysis
+license: Apache-2.0
