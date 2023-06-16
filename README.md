@@ -31,6 +31,21 @@ python -m venv venv & venv\Scripts\activate
 ```
 pip install -r requirements.txt
 ```
+
+## Deploying to Browser
+1. Pip install the streamlit for ML deployment
+```
+pip install streamlit
+```
+2. Run the streamlit command (note that `app.py` must be in same directory before running the command)
+```
+streamlit run app.py
+```
+
+## Accessing the deployment here
+
+[Superstore Prediction Web Application Hosted on Streamlit.io](https://karhong-sam-project-wqd7001-superstore-analysis-app-sicxn3.streamlit.app/)
+
 ## Team
 - Kar Hong Sam [karhong-sam](https://github.com/karhong-sam)
 - Wing Hong Cheah [winghongjason](https://github.com/winghongjason)
